@@ -1,0 +1,5 @@
+0 Leon S. Kennedy
+1 Chris Redfield
+2 Claire Redfield
+3 Jill Valentine
+4 Carlos Oliveira
